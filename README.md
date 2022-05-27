@@ -1,4 +1,4 @@
-# Agora Flutter Quickstart
+# Agora video call App
 
 This tutorial describes how to create an Agora account and build a sample app with Agora using [Flutter](https://flutter.io/).
 
